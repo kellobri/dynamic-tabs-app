@@ -1,0 +1,12 @@
+name: label-dynamic
+title: Label-Dynamic
+username: kelly
+account: kelly
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 2791
+bundleId: 26522
+url: https://colorado.rstudio.com/rsc/content/2791/
+when: 1566481722.57211
+asMultiple: FALSE
+asStatic: FALSE
